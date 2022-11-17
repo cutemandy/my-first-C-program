@@ -9,6 +9,7 @@ int main()
 	printf("please enter two numbers:\n");
 	scanf("%f %f",&a,&b);
 	c = a + b;
-	printf("sum is:%d\n",c);
+
+	printf("good sum is:%d\n",c);
 
 }
