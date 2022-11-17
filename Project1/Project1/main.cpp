@@ -10,6 +10,6 @@ int main()
 	scanf("%f %f",&a,&b);
 	c = a + b;
 
-	printf("I love good sum is:%d\n",c);
+	printf("hey I love good sum is:%d\n",c);
 
 }
