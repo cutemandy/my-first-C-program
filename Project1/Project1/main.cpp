@@ -10,6 +10,6 @@ int main()
 	scanf("%f %f",&a,&b);
 	c = a + b;
 
-	printf("I will be a professional programmer, good sum is:%d\n",c);
+	printf("I will be a professional programmer! good sum is:%d\n",c);
 
 }
