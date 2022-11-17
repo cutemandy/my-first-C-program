@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-//#include "add.h"
+
 unsigned int y;
 int main()
 {
